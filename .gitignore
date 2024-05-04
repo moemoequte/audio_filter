@@ -1,0 +1,6 @@
+__pycache__
+*.html
+build
+dist
+main.spec
+Report.html
